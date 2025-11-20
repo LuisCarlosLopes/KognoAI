@@ -1,0 +1,5 @@
+{
+  "name": "PersonalizaEnem AI",
+  "description": "A mobile-first adaptive tutor for ENEM preparation using Gemini AI to generate personalized exam simulations.",
+  "requestFramePermissions": []
+}
